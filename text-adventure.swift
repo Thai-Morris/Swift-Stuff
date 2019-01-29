@@ -45,7 +45,7 @@ class Actions {
     
 }
 
-//rooms
+//room, I am trying to make a 2D array of structs. 
 struct WorldMap {
     
 }
